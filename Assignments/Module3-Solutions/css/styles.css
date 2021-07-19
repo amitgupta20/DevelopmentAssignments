@@ -1,5 +1,5 @@
 body{
-	font-size: 15px;	
+  font-size: 15px;	
   font-family: sans-serif;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
@@ -41,12 +41,12 @@ body{
 }
 #nav-list li:nth-child(3){
     border-bottom:0;
-  }
-  #nav-list li a{
+}
+#nav-list li a{
     color:rgb(8, 8, 8);
-    font-weight: 600;
+    font-weight: 450;
     line-height: 8px
-  }
+}
 .menu{
     margin: 5px; 
 }
@@ -64,12 +64,12 @@ body{
     margin-bottom: 20px;
     background:#a09d9d;  
     padding: 10px;
-  }
+}
 .menu-item h4 {
     font-weight: bold;
 }
 .menu-item p{
-  font-weight:600;
+  font-weight:450;
   font-size: .9em;
   padding: 5px 10px;
 }
@@ -88,4 +88,4 @@ body{
       font-size: 1em;
       padding:1px 1px;
     }
-  }
+}
