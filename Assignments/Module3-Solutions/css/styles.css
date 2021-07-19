@@ -1,12 +1,12 @@
 body{
-  font-size: 15px;	
+	font-size: 15px;	
   font-family: sans-serif;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
   border: 2px solid #000;
 }
 #header-nav{
-  background-color:#999999;  
+  background-color:#d1c741;  
   border:2px solid #000; 
   border-radius: 0;
 }
@@ -18,7 +18,7 @@ body{
     margin:0 -15px;
 }
 .navbar-brand h1{
-    color: rgb(19, 18, 18);
+    color: rgb(26, 63, 165);
     font-size: 1.5em;
     font-weight: bold;
     margin-top: 0;
@@ -36,15 +36,15 @@ body{
     border-bottom:0;
 }
 #nav-list li{
-    background:rgba(255, 255, 255, 0.87);
+    background:rgba(201, 83, 83, 0.87);
     border-bottom:2px solid;
 }
 #nav-list li:nth-child(3){
     border-bottom:0;
 }
 #nav-list li a{
-    color:rgb(8, 8, 8);
-    font-weight: 450;
+    color:rgb(50, 64, 196);
+    font-weight: 600;
     line-height: 8px
 }
 .menu{
@@ -62,14 +62,14 @@ body{
 }
 .menu-item{
     margin-bottom: 20px;
-    background:#a09d9d;  
+    background:#d3bb36;  
     padding: 10px;
 }
 .menu-item h4 {
     font-weight: bold;
 }
 .menu-item p{
-  font-weight:450;
+  font-weight:400;
   font-size: .9em;
   padding: 5px 10px;
 }
